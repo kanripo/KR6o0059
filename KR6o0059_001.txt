@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:17.049935
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 因緣心釋論開決記
 #+PROPERTY: CBETA_ID T85n2816
 #+PROPERTY: ID KR6o0059
